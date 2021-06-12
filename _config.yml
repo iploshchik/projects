@@ -3,8 +3,6 @@ logo: "/images/Profil bilde.JPG" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   My ML and data analytics projects and scripts
   <br><br>
-  Second description 
-  <br><br>
   <a href="https://www.linkedin.com/in/ilyaploshchik/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
