@@ -1,21 +1,43 @@
 ## Portfolio
 
 ---
+### Supervised Learning 
 
-### Category Name 1 
-
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
+[MNIST K-NN Classification using numpy](/sample_page)
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
+[k-NN Regression using numpy](/pdf/sample_presentation.pdf)
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
+[Multivariate regression using gradient descent](http://example.com/)
 ---
+[Polynomial regression](http://example.com/)
+---
+[Multivariate Logistic Regression](http://example.com/)
+---
+[Nonlinear logistic regression](http://example.com/)
+---
+[Regularized logistic regression](http://example.com/)
+---
+[regularization techniques](http://example.com/)
+---
+[Support Vector Machines with Gaussian and ANOVA kernels](http://example.com/)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+---
+[Support Vector Machines - One versus all MNIST](http://example.com/)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+---
+[Support Vector Machines with Gaussian and ANOVA kernels](http://example.com/)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+---
+[Decision Trees - ensembling](http://example.com/)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+---
+[XOR Gate in Nearual network](http://example.com/)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+---
+[Multilayer perceptron - Fashion MNIST](http://example.com/)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+---
+
 
 ### Category Name 2
 
