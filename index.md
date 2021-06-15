@@ -4,7 +4,7 @@
 
 - [MNIST K-NN Classification using numpy](/Jupyter_Notebook/Supervised_Learning/MNIST_K_NN_Classification.ipynb)
 ---
-- [k-NN Regression using numpy](/Jupyter_Notebook/Supervised_Learning/k_NN_Regression.ipynb)
+- [k-NN Regression using numpy](/pdf/sample_presentation.pdf)
 ---
 - [Multivariate regression using gradient descent](/Jupyter_Notebook/Supervised_Learning/)
 ---
