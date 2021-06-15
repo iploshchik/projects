@@ -1,57 +1,38 @@
 ## Machine Learning methods
 
----
 ### Supervised Learning 
 
-[MNIST K-NN Classification using numpy](/sample_page)
+- [MNIST K-NN Classification using numpy](/Jupyter_Notebook/Supervised_Learning/MNIST_K_NN_Classification.ipynb)
 ---
-[k-NN Regression using numpy](/pdf/sample_presentation.pdf)
+- [k-NN Regression using numpy](/Jupyter_Notebook/Supervised_Learning/k_NN_Regression.ipynb)
 ---
-[Multivariate regression using gradient descent](http://example.com/)
+- [Multivariate regression using gradient descent](/Jupyter_Notebook/Supervised_Learning/)
 ---
-[Polynomial regression](http://example.com/)
+- [Polynomial regression](/Jupyter_Notebook/Supervised_Learning/)
 ---
-[Multivariate Logistic Regression](http://example.com/)
+- [Multivariate Logistic Regression](/Jupyter_Notebook/Supervised_Learning/)
 ---
-[Nonlinear logistic regression](http://example.com/)
+- [Nonlinear logistic regression](/Jupyter_Notebook/Supervised_Learning/)
 ---
-[Regularized logistic regression](http://example.com/)
+- [Regularized logistic regression](/Jupyter_Notebook/Supervised_Learning/)
 ---
-[regularization techniques](http://example.com/)
+- [Regularization techniques](/Jupyter_Notebook/Supervised_Learning/)
 ---
-[Support Vector Machines with Gaussian and ANOVA kernels](http://example.com/)
+- [Support Vector Machines with Gaussian and ANOVA kernels](/Jupyter_Notebook/Supervised_Learning/)
 ---
-[Support Vector Machines - One versus all MNIST](http://example.com/)
+- [Support Vector Machines - One versus all MNIST](/Jupyter_Notebook/Supervised_Learning/)
 ---
-[Support Vector Machines with Gaussian and ANOVA kernels](http://example.com/)
+- [Support Vector Machines with Gaussian and ANOVA kernels](/Jupyter_Notebook/Supervised_Learning/)
 ---
-[Decision Trees - ensembling](http://example.com/)
+- [Decision Trees - ensembling](/Jupyter_Notebook/Supervised_Learning/)
 ---
-[XOR Gate in Neural network](http://example.com/)
+- [XOR Gate in Neural network](/Jupyter_Notebook/Supervised_Learning/)
 ---
-[Multilayer perceptron - Fashion MNIST](http://example.com/)
+- [Multilayer perceptron - Fashion MNIST](/Jupyter_Notebook/Supervised_Learning/)
 ---
 
 ### Unsupervised Learning 
-[Dimensionality Reduction](http://example.com/)
+- [Dimensionality Reduction](/Jupyter_Notebook/Unsupervised_Learning/)
 ---
-[Clustering](http://example.com/)
+- [Clustering](/Jupyter_Notebook/Unsupervised_Learning/)
 ---
-
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
-
-
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
