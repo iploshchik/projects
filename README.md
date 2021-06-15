@@ -2,8 +2,8 @@
 
 ## Supervised Learning 
 ---
-- [MNIST K-NN Classification using numpy](https://nbviewer.jupyter.org/github/ploshchik/data_science_projects/blob/master/Jupyter_Notebook/Supervised_Learning/MNIST_K_NN_Classification.ipynb)
-- [k-NN Regression using numpy](https://nbviewer.jupyter.org/github/ploshchik/data_science_projects/blob/master/Jupyter_Notebook/Supervised_Learning/k_NN_Regression.ipynb)
+- [MNIST K-NN Classification using numpy](/Supervised_Learning/MNIST_K_NN_Classification.ipynb)
+- [/Jupyter_Notebook/Supervised_Learning/k_NN_Regression.ipynb)
 - [Multivariate regression using gradient descent](/Jupyter_Notebook/Supervised_Learning/)
 - [Polynomial regression](/Jupyter_Notebook/Supervised_Learning/)
 - [Multivariate Logistic Regression](/Jupyter_Notebook/Supervised_Learning/)
