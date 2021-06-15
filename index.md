@@ -1,4 +1,4 @@
-## Portfolio
+## Machine Learning methods
 
 ---
 ### Supervised Learning 
@@ -20,22 +20,22 @@
 [regularization techniques](http://example.com/)
 ---
 [Support Vector Machines with Gaussian and ANOVA kernels](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 ---
 [Support Vector Machines - One versus all MNIST](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 ---
 [Support Vector Machines with Gaussian and ANOVA kernels](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 ---
 [Decision Trees - ensembling](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 ---
-[XOR Gate in Nearual network](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[XOR Gate in Neural network](http://example.com/)
 ---
 [Multilayer perceptron - Fashion MNIST](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+---
+
+### Unsupervised Learning 
+[Dimensionality Reduction](http://example.com/)
+---
+[Clustering](http://example.com/)
 ---
 
 
@@ -48,7 +48,7 @@
 - [Project 5 Title](http://example.com/)
 
 ---
-
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 
 
