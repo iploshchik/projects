@@ -16,8 +16,9 @@
 - [Decision Trees - ensembling](/Jupyter_Notebook/Supervised_Learning/)
 - [XOR Gate in Neural network](/Jupyter_Notebook/Supervised_Learning/)
 - [Multilayer perceptron - Fashion MNIST](/Jupyter_Notebook/Supervised_Learning/)
-
+---
 ### Unsupervised Learning 
 ---
 - [Dimensionality Reduction](/Jupyter_Notebook/Unsupervised_Learning/)
 - [Clustering](/Jupyter_Notebook/Unsupervised_Learning/)
+---
