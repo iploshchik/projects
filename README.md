@@ -10,7 +10,7 @@
 - [Multivariate Logistic Regression](/Jupyter_Notebook/Supervised_Learning/)
 - [Nonlinear logistic regression](/Jupyter_Notebook/Supervised_Learning/)
 - [Regularization techniques](/Jupyter_Notebook/Supervised_Learning/)
-- [Support Vector Machines with Gaussian and ANOVA kernels](/Jupyter_Notebook/Supervised_Learning/)
+- [Support Vector Machines with Gaussian and ANOVA(own implementation) kernels](/Jupyter_Notebook/Supervised_Learning/)
 - [Support Vector Machines - One versus all MNIST](/Jupyter_Notebook/Supervised_Learning/)
 - [An effect of ensembling](/Jupyter_Notebook/Supervised_Learning/)
 - [Simple Neural Network - Fashion MNIST](/Jupyter_Notebook/Supervised_Learning/)
@@ -18,7 +18,5 @@
 ---
 ### Unsupervised Learning 
 ---
-- [Dimensionality Reduction](/Jupyter_Notebook/Unsupervised_Learning/)
-- [Clustering](/Jupyter_Notebook/Unsupervised_Learning/)
-- [Visualization](/Jupyter_Notebook/Unsupervised_Learning/)
+- [Clustering and Dimensionality Reduction](/Jupyter_Notebook/Unsupervised_Learning/)
 ---
