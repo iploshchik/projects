@@ -13,13 +13,13 @@
 - [Regularization techniques](/Jupyter_Notebook/Supervised_Learning/)
 - [Support Vector Machines with Gaussian and ANOVA kernels](/Jupyter_Notebook/Supervised_Learning/)
 - [Support Vector Machines - One versus all MNIST](/Jupyter_Notebook/Supervised_Learning/)
-- [Support Vector Machines with Gaussian and ANOVA kernels](/Jupyter_Notebook/Supervised_Learning/)
-- [Decision Trees - ensembling](/Jupyter_Notebook/Supervised_Learning/)
-- [XOR Gate in Neural network](/Jupyter_Notebook/Supervised_Learning/)
-- [Multilayer perceptron - Fashion MNIST](/Jupyter_Notebook/Supervised_Learning/)
+- [An effect of ensembling](/Jupyter_Notebook/Supervised_Learning/)
+- [Simple Neural Network - Fashion MNIST](/Jupyter_Notebook/Supervised_Learning/)
+
 ---
 ### Unsupervised Learning 
 ---
 - [Dimensionality Reduction](/Jupyter_Notebook/Unsupervised_Learning/)
 - [Clustering](/Jupyter_Notebook/Unsupervised_Learning/)
+- [Visualization](/Jupyter_Notebook/Unsupervised_Learning/)
 ---
