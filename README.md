@@ -18,7 +18,5 @@
 ---
 ### Unsupervised Learning 
 ---
-- [Dimensionality Reduction](/Jupyter_Notebook/Unsupervised_Learning/)
-- [Clustering](/Jupyter_Notebook/Unsupervised_Learning/)
-- [Visualization](/Jupyter_Notebook/Unsupervised_Learning/)
+- [Clustering and Dimensionality Reduction](/Jupyter_Notebook/Unsupervised_Learning/)
 ---
