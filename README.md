@@ -21,5 +21,5 @@
 ---
 ---
 ### Numer.ai scripts and testing ideas
-Scripts and models used in Numer.ai ML competition, check additional details at https://docs.numer.ai/tournament/learn
+##### Scripts and models used in Numer.ai ML competition, check additional details at https://docs.numer.ai/tournament/learn
 ---
