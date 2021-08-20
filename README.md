@@ -14,10 +14,12 @@
 - [Support Vector Machines - One versus all MNIST](https://nbviewer.jupyter.org/github/ilyaploshchik/ilyaploshchik.github.io/blob/master/Jupyter_Notebook/Supervised_Learning/svm_one_versus_all_mnist.ipynb)
 - [An effect of ensembling](/Jupyter_Notebook/Supervised_Learning/)
 - [Simple Neural Network - Fashion MNIST](https://nbviewer.jupyter.org/github/ilyaploshchik/ilyaploshchik.github.io/blob/master/Jupyter_Notebook/Supervised_Learning/mlp_fashion_mnist.ipynb)
-
 ---
 ### Unsupervised Learning 
 ---
 - [Clustering and Dimensionality Reduction](https://nbviewer.jupyter.org/github/ilyaploshchik/ilyaploshchik.github.io/blob/master/Jupyter_Notebook/Supervised_Learning/clastering_dim_reduction.ipynb)
-
+---
+---
+### Numer.ai scripts and testing ideas
+Scripts and models used in Numer.ai ML competition, check additional details at https://docs.numer.ai/tournament/learn
 ---
