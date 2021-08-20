@@ -9,7 +9,6 @@
 - [Polynomial regression](/Jupyter_Notebook/Supervised_Learning/)
 - [Multivariate Logistic Regression](/Jupyter_Notebook/Supervised_Learning/)
 - [Nonlinear logistic regression](/Jupyter_Notebook/Supervised_Learning/)
-- [Regularized logistic regression](/Jupyter_Notebook/Supervised_Learning/)
 - [Regularization techniques](/Jupyter_Notebook/Supervised_Learning/)
 - [Support Vector Machines with Gaussian and ANOVA kernels](/Jupyter_Notebook/Supervised_Learning/)
 - [Support Vector Machines - One versus all MNIST](/Jupyter_Notebook/Supervised_Learning/)
