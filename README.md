@@ -1,8 +1,13 @@
 ## Datascience and data analytics projects and scripts
 
 ---
-### Numer.ai scripts and testing ideas
-##### Scripts and models used in Numer.ai ML competition, check additional details at https://docs.numer.ai/tournament/learn
+### Numer.ai script
+##### Script used and testing in Numer.ai ML competition, check additional details at https://docs.numer.ai/tournament/learn
+Notebook includes following steps:
+- feature selection using univariate Selection and Fit model using each importance as a threshold
+- Model testing and parameter tuning for Lasso Regression, Ridge Regression, XGBoost and ElasticNet models
+- Model ensembling using stacked generalization
+- [numerai ensembling](https://nbviewer.jupyter.org/github/ilyaploshchik/ilyaploshchik.github.io/blob/master/Jupyter_Notebook/numerai/Numerai_Ensemble_incl_val_data.ipynb)
 ---
 
 ### Supervised Learning techniques
