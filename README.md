@@ -12,7 +12,7 @@ Notebook includes following steps:
 ---
 
 ### Supervised Learning techniques
-#### notebooks created for better material understading
+#### notebooks created for better material understanding
 ---
 - [MNIST K-NN Classification using numpy](https://nbviewer.jupyter.org/github/ilyaploshchik/ilyaploshchik.github.io/blob/master/Jupyter_Notebook/Supervised_Learning/MNIST_K_NN_Classification.ipynb)
 - [k-NN Classification using scikit-learn](https://nbviewer.jupyter.org/github/ilyaploshchik/ilyaploshchik.github.io/blob/master/Jupyter_Notebook/Supervised_Learning/k-NN_scikit-learn.ipynb)
@@ -28,7 +28,7 @@ Notebook includes following steps:
 - [Simple Neural Network - Fashion MNIST](https://nbviewer.jupyter.org/github/ilyaploshchik/ilyaploshchik.github.io/blob/master/Jupyter_Notebook/Supervised_Learning/mlp_fashion_mnist.ipynb)
 ---
 ### Unsupervised Learning techniques
-#### notebooks created for better material understading
+#### notebooks created for better material understanding
 ---
 - [Clustering and Dimensionality Reduction](https://nbviewer.jupyter.org/github/ilyaploshchik/ilyaploshchik.github.io/blob/master/Jupyter_Notebook/Supervised_Learning/clastering_dim_reduction.ipynb)
 ---
