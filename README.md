@@ -3,6 +3,7 @@
 ### Supervised Learning 
 ---
 - [MNIST K-NN Classification using numpy](https://nbviewer.jupyter.org/github/ilyaploshchik/ilyaploshchik.github.io/blob/master/Jupyter_Notebook/Supervised_Learning/MNIST_K_NN_Classification.ipynb)
+- [k-NN Classification using scikit-learn]
 - [k-NN Regression using numpy](https://nbviewer.jupyter.org/github/ilyaploshchik/ilyaploshchik.github.io/blob/master/Jupyter_Notebook/Supervised_Learning/k_NN_Regression.ipynb)
 - [Multivariate regression using gradient descent](/Jupyter_Notebook/Supervised_Learning/)
 - [Polynomial regression](/Jupyter_Notebook/Supervised_Learning/)
