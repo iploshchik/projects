@@ -12,16 +12,6 @@ description: > # your text below (remove <br> elements if you don't need line br
     action="https://formspree.io/f/mdoypboa"
     method="POST"
   >
-    <label>
-      Your email: ilyaploshchik@gmail.com
-      <input type="email" name="_replyto">
-    </label>
-    <label>
-      Your message:
-      <textarea name="message"></Please add your message here>
-    </label>
-    <!-- your other form fields go here -->
-    <button type="submit">Send</button>
   </form>
   
 theme: jekyll-theme-minimal
