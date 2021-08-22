@@ -7,6 +7,7 @@ Notebook includes following steps:
 - feature selection using univariate Selection and Fit model using each importance as a threshold
 - Model testing and parameter tuning for Lasso Regression, Ridge Regression, XGBoost and ElasticNet models
 - Model ensembling using stacked generalization
+- 
 ---
 
 
@@ -32,9 +33,11 @@ Notebook includes following steps:
 - [Support Vector Machines - One versus all MNIST](https://nbviewer.jupyter.org/github/ilyaploshchik/ilyaploshchik.github.io/blob/master/Jupyter_Notebook/Supervised_Learning/svm_one_versus_all_mnist.ipynb)
 - [An effect of ensembling](/Jupyter_Notebook/Supervised_Learning/)
 - [Simple Neural Network - Fashion MNIST](https://nbviewer.jupyter.org/github/ilyaploshchik/ilyaploshchik.github.io/blob/master/Jupyter_Notebook/Supervised_Learning/mlp_fashion_mnist.ipynb)
+- 
 ---
 ### Unsupervised Learning techniques
 #### notebooks created for better material understanding
 ---
 - [Clustering and Dimensionality Reduction](https://nbviewer.jupyter.org/github/ilyaploshchik/ilyaploshchik.github.io/blob/master/Jupyter_Notebook/Supervised_Learning/clastering_dim_reduction.ipynb)
+- 
 ---
