@@ -8,7 +8,15 @@ Notebook includes following steps:
 - feature selection using univariate Selection and Fit model using each importance as a threshold
 - Model testing and parameter tuning for Lasso Regression, Ridge Regression, XGBoost and ElasticNet models
 - Model ensembling using stacked generalization
+---
 
+
+---
+### Hobby projects
+#### USD/RUB exchange rate and Oil Brent price correlation
+#### Analysis perfomed to discover the correlation (if any) between USD/RUB exchange rate and Oil Brent price. Intendted as home projects for DS course.
+#### Script includes Exploratory analysis steps, data wrangling stepsand simple machine learning models check.
+### [USD/RUB exchange rate and Oil Brent price correlation](https://nbviewer.jupyter.org/github/ilyaploshchik/ilyaploshchik.github.io/blob/master/Jupyter_Notebook/Skillbox/mach_learning_intensive.ipynb)
 ---
 
 ### Supervised Learning techniques
