@@ -1,13 +1,21 @@
 ## Datascience and data analytics projects and scripts
 
 ---
-### Numer.ai script
+### [Numerai Ensembling](https://nbviewer.jupyter.org/github/ilyaploshchik/ilyaploshchik.github.io/blob/master/Jupyter_Notebook/numerai/Numerai_Ensemble_incl_val_data.ipynb)
 #### Script used and testing in Numer.ai ML competition, check additional details at https://docs.numer.ai/tournament/learn
-### [Numerai Ensembling](https://nbviewer.jupyter.org/github/ilyaploshchik/ilyaploshchik.github.io/blob/master/Jupyter_Notebook/numerai/Numerai_Ensemble_incl_val_data.ipynb) <br>
 Notebook includes following steps:
 - feature selection using univariate Selection and Fit model using each importance as a threshold
 - Model testing and parameter tuning for Lasso Regression, Ridge Regression, XGBoost and ElasticNet models
 - Model ensembling using stacked generalization
+
+---
+
+
+---
+### Hobby projects
+### [USD/RUB exchange rate and Oil Brent price correlation](https://nbviewer.jupyter.org/github/ilyaploshchik/ilyaploshchik.github.io/blob/master/Jupyter_Notebook/Skillbox/mach_learning_intensive.ipynb)
+- Analysis perfomed to discover the correlation (if any) between USD/RUB exchange rate and Oil Brent price. 
+- Intended as home project for DS course. Script includes Exploratory analysis steps, data wrangling stepsand simple machine learning models check.
 
 ---
 
@@ -26,9 +34,11 @@ Notebook includes following steps:
 - [Support Vector Machines - One versus all MNIST](https://nbviewer.jupyter.org/github/ilyaploshchik/ilyaploshchik.github.io/blob/master/Jupyter_Notebook/Supervised_Learning/svm_one_versus_all_mnist.ipynb)
 - [An effect of ensembling](/Jupyter_Notebook/Supervised_Learning/)
 - [Simple Neural Network - Fashion MNIST](https://nbviewer.jupyter.org/github/ilyaploshchik/ilyaploshchik.github.io/blob/master/Jupyter_Notebook/Supervised_Learning/mlp_fashion_mnist.ipynb)
+
 ---
 ### Unsupervised Learning techniques
 #### notebooks created for better material understanding
 ---
 - [Clustering and Dimensionality Reduction](https://nbviewer.jupyter.org/github/ilyaploshchik/ilyaploshchik.github.io/blob/master/Jupyter_Notebook/Supervised_Learning/clastering_dim_reduction.ipynb)
+
 ---
