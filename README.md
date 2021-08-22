@@ -13,10 +13,9 @@ Notebook includes following steps:
 
 ---
 ### Hobby projects
-#### USD/RUB exchange rate and Oil Brent price correlation
+### [USD/RUB exchange rate and Oil Brent price correlation](https://nbviewer.jupyter.org/github/ilyaploshchik/ilyaploshchik.github.io/blob/master/Jupyter_Notebook/Skillbox/mach_learning_intensive.ipynb)
 Analysis perfomed to discover the correlation (if any) between USD/RUB exchange rate and Oil Brent price. Intendted as home projects for DS course. <br>
 Script includes Exploratory analysis steps, data wrangling stepsand simple machine learning models check.
-### [USD/RUB exchange rate and Oil Brent price correlation](https://nbviewer.jupyter.org/github/ilyaploshchik/ilyaploshchik.github.io/blob/master/Jupyter_Notebook/Skillbox/mach_learning_intensive.ipynb)
 ---
 
 ### Supervised Learning techniques
