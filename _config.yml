@@ -6,8 +6,6 @@ description: > # your text below (remove <br> elements if you don't need line br
   Feel free to use code if found interested
   <br><br>
   <a href="https://www.linkedin.com/in/ilyaploshchik/">View My LinkedIn Profile</a>
-  
-    <!-- modify this form HTML and place wherever you want your form -->
   <form
     action="https://formspree.io/f/mdoypboa"
     method="POST"
