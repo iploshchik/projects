@@ -32,7 +32,7 @@ Notebook includes following steps:
 - [Regularization techniques](https://nbviewer.jupyter.org/github/ilyaploshchik/ilyaploshchik.github.io/blob/master/Jupyter_Notebook/Supervised_Learning/regularization_techniques.ipynb)
 - [Support Vector Machines with Gaussian and ANOVA(own implementation) kernels](https://nbviewer.jupyter.org/github/ilyaploshchik/ilyaploshchik.github.io/blob/master/Jupyter_Notebook/Supervised_Learning/svm_various_kernels.ipynb)
 - [Support Vector Machines - One versus all MNIST](https://nbviewer.jupyter.org/github/ilyaploshchik/ilyaploshchik.github.io/blob/master/Jupyter_Notebook/Supervised_Learning/svm_one_versus_all_mnist.ipynb)
-- [An effect of ensembling](/Jupyter_Notebook/Supervised_Learning/)
+- [An effect of ensembling](https://nbviewer.jupyter.org/github/ilyaploshchik/ilyaploshchik.github.io/blob/master/Jupyter_Notebook/Supervised_Learning/effect_of_ensembling.ipynb)
 - [Simple Neural Network - Fashion MNIST](https://nbviewer.jupyter.org/github/ilyaploshchik/ilyaploshchik.github.io/blob/master/Jupyter_Notebook/Supervised_Learning/mlp_fashion_mnist.ipynb)
 
 ---
