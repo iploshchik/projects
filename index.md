@@ -40,5 +40,5 @@ Notebook includes following steps:
 #### notebooks created for better material understanding
 ---
 - [Clustering and Dimensionality Reduction](https://nbviewer.jupyter.org/github/ilyaploshchik/ilyaploshchik.github.io/blob/master/Jupyter_Notebook/Supervised_Learning/clastering_dim_reduction.ipynb)
-- 
+
 ---
