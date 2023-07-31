@@ -1,6 +1,11 @@
 ## Datascience and data analytics projects and scripts
 
 ---
+### Bachelor thesis
+### [MetaStackVis: Visually-Assisted Performance Evaluation of Metamodels in Stacking Ensemble Learning](https://github.com/iploshchik/MetaStackVis#metastackvis-visually-assisted-performance-evaluation-of-metamodels-in-stacking-ensemble-learning)
+Stacking, or stacked generalization, is a technique in ensemble learning where multiple base models, or "weak learners," are trained and combined to form a metamodel with improved predictive power. The ISOVIS research group at LNU has created StackGenVis, a visual analytics system that helps users optimize performance metrics, manage input data, including selecting features, and choose top-performing algorithms. The current version of StackGenVis uses a single Linear Regression metamodel. This work aims to investigate the impact of alternative metamodels on the predictive performance of StackGenVis using provided data and charts for comparison. 
+
+---
 ### [Numerai Ensembling](https://nbviewer.jupyter.org/github/ilyaploshchik/ilyaploshchik.github.io/blob/master/Jupyter_Notebook/numerai/Numerai_Ensemble_incl_val_data.ipynb)
 #### Script used and testing in Numer.ai ML competition, check additional details at https://docs.numer.ai/tournament/learn
 Notebook includes following steps:
